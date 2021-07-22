@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1626963419732,
+  "timestamp": 1626963709249,
   "index": "/playground/index.html",
   "assetGroups": [
     {
@@ -1195,7 +1195,7 @@
     "/playground/ma.363a4f79da72a6e74be0.svg": "da26c04d00847dd4414bc6c8f6c353bbf2ad4da2",
     "/playground/ma.3b79aff17ae55b760333.svg": "2b29e5febaeaf669731112b60de0f88d07b88e1b",
     "/playground/main.d3da9d303e36f797f2ed.js": "c1aad89240f8e2cab0d9677ca6134c97e6103c78",
-    "/playground/manifest.webmanifest": "01ab0e5658c1b1962bef2154ac14ec0d48146939",
+    "/playground/manifest.webmanifest": "f4c5b672e4e20196a081fc6f771fae4750c843db",
     "/playground/material.1ffa9adfdf7ec392d1b8.woff2": "b380f5c2d6a9f921131358aa4b4e54d1232e9870",
     "/playground/mc.082fc1558b4cf726b613.svg": "b57b9153c3ad7b91578b2a8ce2ba4ebf18ab5169",
     "/playground/mc.a2634c60fa92f9ff20f0.svg": "e2ef27b57936e4ac537351cbda007cfdb04b08b4",
