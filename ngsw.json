@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627826250612,
+  "timestamp": 1628415122638,
   "index": "/playground/index.html",
   "assetGroups": [
     {
@@ -309,6 +309,7 @@
         "/playground/assets/models/pose-to-person/group1-shard8of52.bin",
         "/playground/assets/models/pose-to-person/group1-shard9of52.bin",
         "/playground/assets/models/pose-to-person/model.json",
+        "/playground/assets/models/sign-detector/README.md",
         "/playground/assets/models/sign-detector/group1-shard1of1.bin",
         "/playground/assets/models/sign-detector/model.json",
         "/playground/assets/tmp/example-sentence-original.mp4",
@@ -1021,7 +1022,7 @@
     "/playground/assets/icons/microsoft/ms-icon-70x70.png": "871d1d24f61f073bd87162d51ec0ecf14c6e8bcb",
     "/playground/assets/models/face-features/group1-shard1of1.bin": "26c4b66cd5337738e66e3c2b4262ab75f320c999",
     "/playground/assets/models/face-features/model.json": "f68abb33e8cb04eb4ae6108abdb957935179a390",
-    "/playground/assets/models/hand-shape/README.md": "b0a87f829489378d6d0d0dc1b5b4017c79e3c1d2",
+    "/playground/assets/models/hand-shape/README.md": "f3cca743ec410e54905e92b80cef0a928ffb9bda",
     "/playground/assets/models/hand-shape/group1-shard1of1.bin": "e2802aa32734bc03cace27d25951694a89553fd9",
     "/playground/assets/models/hand-shape/model.json": "d0679da13467f60e59fc7378d47c5057194f103f",
     "/playground/assets/models/holistic/README.md": "3852026663292f16a6fc22d9f7a29e622e7a8662",
@@ -1094,6 +1095,7 @@
     "/playground/assets/models/pose-to-person/group1-shard8of52.bin": "744ef3a382100ab63d832493a99bedb721400cfe",
     "/playground/assets/models/pose-to-person/group1-shard9of52.bin": "d714b82e316b3f2496f99a58c4882dea28dd82de",
     "/playground/assets/models/pose-to-person/model.json": "b8dab9f830ae30df1beb359d97b6740cdb752ae2",
+    "/playground/assets/models/sign-detector/README.md": "486cea523fce4e2ffb1b14da6699b8b202028b07",
     "/playground/assets/models/sign-detector/group1-shard1of1.bin": "ccee64beeb44fc0977f3c8391eca82052218cb82",
     "/playground/assets/models/sign-detector/model.json": "1ca4fc1cf4201953841bf2b90d09450feb59d8b9",
     "/playground/assets/tmp/example-sentence-original.mp4": "73088166f23517167355a61f355fd66d2e6e40ce",
