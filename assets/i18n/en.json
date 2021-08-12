@@ -11,6 +11,12 @@
       "text": "Text"
     },
     "swapLanguages": "Swap languages",
+    "language-selector": {
+      "more": "More Languages"
+    },
+    "spoken-to-signed": {
+      "text": "Spoken Language Text"
+    },
     "upload": {
       "title": "Choose a video",
       "types": "Upload a .mp4, .ogv, or .webm",
